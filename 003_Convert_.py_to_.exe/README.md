@@ -60,7 +60,7 @@ If you have git and you know how to use it, you can also clone the repository in
 
 ## Authors ✍️
 
-I'm Dr. Milaan Parmar and I have written this tutorial. If you think you can add/correct/edit and enhance this tutorial you are most welcome🙏
+I'm amarabhilash and I have written this tutorial. If you think you can add/correct/edit and enhance this tutorial you are most welcome🙏
 
 See [github's contributors page](https://github.com/amarabhilash/91_Python_Mini_Projects/graphs/contributors) for details.
 
@@ -74,7 +74,7 @@ If you like this tutorial, please [give it a ⭐ star](https://github.com/amarab
 
 You may use this tutorial freely at your own risk. See [LICENSE](https://github.com/amarabhilash/91_Python_Mini_Projects/blob/main/LICENSE).
 
-Copyright (c) 2020 Dr. Milaan Parmar
+Copyright (c) 2020 amarabhilash
 
 ---
 
